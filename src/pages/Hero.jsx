@@ -55,7 +55,8 @@ const Hero = () => {
                 <div className='flex gap-4 justify-center'>
                     <motion.button
                       whileHover={{scale: 1.05}}
-                      className="px-6 py-3 bg-emerald-500 rounded-full font-medium hover:bg-emerald-600 transition-colors">
+                      className="px-6 py-3 bg-emerald-500 rounded-full font-medium hover:bg-emerald-600 transition-colors"
+                      >
                         Contact Me
                       </motion.button>
                       <motion.button

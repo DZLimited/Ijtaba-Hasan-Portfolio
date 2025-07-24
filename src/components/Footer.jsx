@@ -11,22 +11,22 @@ const Footer = () => {
           Get in <span className='text-gray-400'>touch</span>
           </h2>
           <a 
-          className='md:text-7xl text-4xl font-semibold text-white underline
+          className='md:text-5xl text-2xl font-semibold text-white underline
                     decoration-gray-400 decoration-2 underline-offset-4 hover:decoration-gray-200
                     transition duration-300'
           href="mailto:dani@gmail.com">
-            satti@gmail.com
+            iijtaba.hasan@gmail.com
           </a>
         </div>
 
         <div className='text-white/50 mt-12'>
           <div className='mb-8'>
             <p className='text-lg mb-1'>Phone</p>
-            <a href="+923562562485"
+            <a href="+92 3435987984"
             className='text-2xl font-semibold underline decoration-gray-400
                        decoration-2 underline-offset-4 hover:decoration-gray-400
                        transition duration-300'>
-                      +923562562485
+                      +92 3435987984
             </a>
           </div>
 
