@@ -51,7 +51,7 @@ const Footer = () => {
     <span className='text-white/30'>
       Developed by 
       <a 
-        href="https://your-portfolio-link.com" 
+        href="https://daniyal0109-portfolio.netlify.app" 
         target="_blank" 
         className='ml-1 text-emerald-400 font-semibold underline hover:text-emerald-300 glow'
       >
